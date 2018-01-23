@@ -12,4 +12,5 @@
        puts passenger
        end
      end
+     puts passenger
  end
