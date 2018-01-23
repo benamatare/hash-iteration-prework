@@ -11,6 +11,7 @@
      if suite == :suite_a && passenger.start_with?("A")
       winner = passenger
        end
+       winner
      end
-winner
+
  end
